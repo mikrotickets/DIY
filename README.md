@@ -36,3 +36,4 @@
 * 1 > GND
 * 2 > A2
 
+![picture](/Connections.png)
