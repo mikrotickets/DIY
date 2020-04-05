@@ -1,6 +1,6 @@
 # MikroTickets DIY 
 
-##Introduction.
+## Introduction.
 
 MikroTickets DIY is a low cost project designed to build a coin acceptor Mikrotik compatible voucher hotspot seller machine.
 
