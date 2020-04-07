@@ -36,12 +36,12 @@ We prepared everything needed to load the project as a precompiled binary ready 
 * SCL > SCL
 
 ### Electronic Coin Aceptor (One coin Type) > Arduino PIN
-* Coin Signal > Diode >  A0   (Diode white mark facing coin aceptor)
+* Coin Signal > Diode >  D2   (Diode white mark facing coin aceptor)
 * 12 vcc      >          VIN
 * GND         >          GND
 
 ### Push Buttom 12mm momentary > Arduino PIN
-* 1 > GND
-* 2 > A2
+* 1 > D5
+* 2 > D^
 
 ![picture](/Connections.png)
