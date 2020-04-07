@@ -11,7 +11,7 @@ We prepared everything needed to load the project as a precompiled binary ready 
 
 ### Components:
 * Arduino UNO SMD rev3.
-* Micro SD card Reader.
+* Micro SD card Reader or Ethernet Shield.
 * MicroSD card.
 * LCD 16x2.
 * LCD i2c Adapter.
@@ -21,7 +21,7 @@ We prepared everything needed to load the project as a precompiled binary ready 
 
 ## Connections:
 
-### Micro SD card Reader > Arduino PIN (You can use Ethernet Shield instead too)
+### Micro SD card Reader or Ethernet shield (same Pinout) > Arduino PIN 
 * CS   >  D4
 * SCK  >  D13
 * MOSI >  D12
