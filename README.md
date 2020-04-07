@@ -21,7 +21,7 @@ We prepared everything needed to load the project as a precompiled binary ready 
 
 ## Connections:
 
-### Micro SD card Reader > Arduino PIN
+### Micro SD card Reader > Arduino PIN (You can use Ethernet Shield instead too)
 * CS   >  D4
 * SCK  >  D13
 * MOSI >  D12
