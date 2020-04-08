@@ -4,10 +4,14 @@ MikroTickets DIY is a low cost project designed to build a coin acceptor Mikroti
 
 Using the easiest to find components and the lowest possible connections, this project allow to sell a preloaded list of Voucher users on an SD card as CSV files (User,Password). Up to 4 different 4  profiles on a LCD screen.
 
-We prepared everything needed to load the project as a precompiled binary ready to be uploaded to the microcontroller, no need to configure any Arduino IDE neither to install complicated libraries. 
+
+
+
 
 ## Instructions: 
+We prepared everything needed to load the project as a precompiled binary ready to be uploaded to the microcontroller, no need to configure any Arduino IDE neither to install complicated libraries. 
 
+If you like to compile from source we recommend:  https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library 
 
 ### Components:
 * Arduino UNO SMD rev3.
